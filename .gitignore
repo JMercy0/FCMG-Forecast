@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Reports
+reports/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
