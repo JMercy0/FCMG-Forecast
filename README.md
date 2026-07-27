@@ -1,13 +1,3 @@
-Excellent. Welcome to **Day 1** of your capstone project.
-
-From this point onward, we'll build this as if you were working in a professional data science team. Every decision will be documented, every notebook will have a clear purpose, and every output will contribute to your final presentation and GitHub portfolio.
-
----
-
-# 🚀 Project Kickoff
-
-## Project Title
-
 **FMCG Global Demand Planning and Forecasting Using Machine Learning**
 
 ---
